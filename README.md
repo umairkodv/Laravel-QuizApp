@@ -1,19 +1,3 @@
-## Todo
-```
-Currently busy with some other important things, will definately would like to imporove the app with
-1. Multiple choices selection and mapping to detail results
-2. Question difficulty levels
-3. Section subscription for registered users
-4. User crud functionality in admin pannel
-5. Modal implementation for user crud.
-6. Plenty of other functionalites ofcourese.
-
-
-
-Pull reqeusts are welcome, acceptance will depend on availability of time to review the pull requests.
-
-```
-
 ## User Quiz Home
 ![image](https://user-images.githubusercontent.com/52659978/130816735-6e881068-360d-4930-8d1b-333f9055719a.png)
 
