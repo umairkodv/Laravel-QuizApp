@@ -43,6 +43,3 @@ Password: adminadmin
 Register a new user and login -> Take a Quiz
 
 ```
-## License
-
-The QuizApp is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
