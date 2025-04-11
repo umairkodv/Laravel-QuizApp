@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/52659978/130817166-73e83d99-d2ae-4bcb-8f03-cfa2b7c11491.png)
 
 ## QuizApp
-A laravel based QuizApp    
+A laravel based QuizApp
 
 
 ## Installation
