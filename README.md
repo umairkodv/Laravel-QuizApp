@@ -1,4 +1,4 @@
-## User Quiz Home   
+## User Quiz Home    
 ![image](https://user-images.githubusercontent.com/52659978/130816735-6e881068-360d-4930-8d1b-333f9055719a.png)
 
 ## Start A Quiz
