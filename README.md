@@ -4,7 +4,7 @@
 ## Start A Quiz
 ![image](https://user-images.githubusercontent.com/52659978/130816837-77995e62-a1c3-4f58-8f1a-d43f76fd8f69.png)
 
-## Quiz Screen
+## Quiz Screen 
 ![image](https://user-images.githubusercontent.com/52659978/130816969-3025d9bf-3960-4b1e-a404-03971ab62d58.png)
 
 
