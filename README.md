@@ -1,7 +1,7 @@
 ## User Quiz Home
 ![image](https://user-images.githubusercontent.com/52659978/130816735-6e881068-360d-4930-8d1b-333f9055719a.png)
 
-## Start A Quiz   
+## Start A Quiz
 ![image](https://user-images.githubusercontent.com/52659978/130816837-77995e62-a1c3-4f58-8f1a-d43f76fd8f69.png)
 
 ## Quiz Screen
